@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "945632618869",
+    "firebase_url": "https://involuted-box-118407.firebaseio.com",
+    "project_id": "involuted-box-118407",
+    "storage_bucket": "involuted-box-118407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945632618869:android:4f3a16ac52dee113",
+        "android_client_info": {
+          "package_name": "com.example.s.dodam1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945632618869-oiok67987afpjfn28o2dj4u381q85bv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv3SxgeHaPAPGAdhf_oCQORsfdPT1saVM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945632618869:android:de65ea20bf1de632",
+        "android_client_info": {
+          "package_name": "com.example.jeon.tabtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945632618869-oiok67987afpjfn28o2dj4u381q85bv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv3SxgeHaPAPGAdhf_oCQORsfdPT1saVM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
